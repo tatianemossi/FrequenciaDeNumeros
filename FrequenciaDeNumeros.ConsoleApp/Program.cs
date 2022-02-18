@@ -28,7 +28,7 @@ namespace FrequenciaDeNumeros.ConsoleApp
 
                 for (int j = 0; j < quantidadeDeNumeros; j++)
                 {
-                    if (numeroAtual == listaNumeros[i])
+                    if (numeroAtual == listaNumeros[j])
                     {
                         contador++;
                     }
